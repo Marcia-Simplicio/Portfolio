@@ -5,7 +5,8 @@ Portifolio da desenvolvedora
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-Ícones
+Ícones:
+
 📦 nova funcionalidade
 
 🆙 atualização
