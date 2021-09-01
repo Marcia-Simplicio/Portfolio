@@ -11,7 +11,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 🆙 atualização
 
-🪲 correção de bug
-
 🏁 release
 
